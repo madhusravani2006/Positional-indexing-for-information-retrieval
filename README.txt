@@ -1,5 +1,5 @@
 
- POSITIONAL INDEXING  -  IR Assignment 1
+ POSITIONAL INDEXING 
 
  Name       : Velicharla Madhu Sravani
  Roll No    : S20240030407
