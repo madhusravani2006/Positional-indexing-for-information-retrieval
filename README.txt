@@ -2,10 +2,10 @@
  POSITIONAL INDEXING 
 
  Name       : Velicharla Madhu Sravani
- Roll No    : S20240030407
  Language   : Kannada
  Dataset    : Kannada Wikipedia dump (knwiki-latest-pages-articles.xml.bz2), 37,100 articles indexed
  Data link  : https://dumps.wikimedia.org/knwiki/latest/knwiki-latest-pages-articles.xml.bz2
+ Index link : https://drive.google.com/drive/folders/1NZXdEiKPE-bT9QMWNOPD1XDPsYdFb5Ie?usp=sharing
 
 ----------------------------------------------------------------------------
  1. WHAT THIS PROJECT DOES
